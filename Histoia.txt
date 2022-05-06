@@ -1,3 +1,6 @@
 Hola Mundo en git
 
 Esto creando mi historia 
+
+tenemos un problema que aun  no se como solucionarlo
+pero estmos entendiendpo como funciona
